@@ -19,7 +19,7 @@ int *visited;
 int *check;
 
 int check2() , has_cycle(int i);
-void DFS(int v,int colour),find_LCA(int ancestor,int check);
+void DFS(int v, int colour),find_LCA(int ancestor,int check);
 
 
 
